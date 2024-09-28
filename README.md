@@ -20,7 +20,9 @@
 ## 📺 화면 구성
 |메인페이지|  |
 |--|--|
-| img |img  |
+| ![image](https://github.com/user-attachments/assets/e6bd5f03-d9a9-4dd4-b821-2e804c5cde7d)
+ |![image](https://github.com/user-attachments/assets/fa32eb0e-469f-4a6f-a87b-7d8da989452a)
+  |
 
 
 ## 🔥 주요 기능
@@ -40,20 +42,21 @@
 	- 동물카드에 있는 "하트"를 누르면 "즐겨찾기" 메뉴에서 모아보는 기능
 
 ## ⚙️ 개발 환경
-**Environment**
+**Environment**<br/>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-**Config**
+**Config**<br/>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Development**
+**Development**<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-**Communication**
+**Communication**<br/>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 **디렉터리 구조 (src)**
+`
 src  
  ┣ common  
  ┃ ┣ AnimalCard  
@@ -181,3 +184,4 @@ src
  ┣ logo.svg  
  ┣ reportWebVitals.js  
  ┗ setupTests.js
+ `
