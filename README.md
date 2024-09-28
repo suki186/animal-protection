@@ -1,5 +1,7 @@
 # 🐶유기동물 조회 서비스: 다시-펫(DASI-PET)🐱
-![image](https://github.com/user-attachments/assets/a98858d3-42f3-4105-8718-3eaecb35bfd5)
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/b98273c0-0534-41cd-bfe6-735d69ba0190)">
+</p>
 - 배포 URL : https://group-project-green-six.vercel.app/
 - OpenAPI: https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15098931
 - UI, Image 참고: 국가동물보호정보시스템 홈페이지
@@ -29,7 +31,7 @@
 
 |입양안내 페이지|입양교육 페이지|
 |--|--|
-![image](https://github.com/user-attachments/assets/05ee6140-5996-471b-b511-15869dc6a224)|![image](https://github.com/user-attachments/assets/f9e7020e-3961-4381-9c8f-976044f8d3b8)|
+![image](https://github.com/user-attachments/assets/05ee6140-5996-471b-b511-15869dc6a224)|![image](https://github.com/user-attachments/assets/afb60a8b-dfbc-4416-9f87-cfbcc30bbeec)|
 
 |동물조회 페이지|동물상세 페이지|
 |--|--|
