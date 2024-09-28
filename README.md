@@ -1,4 +1,5 @@
 # 🐶유기동물 조회 서비스: 다시-펫(DASI-PET)🐱
+![image](https://github.com/user-attachments/assets/a98858d3-42f3-4105-8718-3eaecb35bfd5)
 - 배포 URL : https://group-project-green-six.vercel.app/
 - OpenAPI: https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15098931
 - UI, Image 참고: 국가동물보호정보시스템 홈페이지
@@ -18,9 +19,25 @@
 - 이제의 - 보호소 지도 리스트, 지도에 마커, 보호소 상세페이지 제작.
 
 ## 📺 화면 구성
-|메인페이지| - |
+|메인페이지 상단|메인페이지 하단|
 |--|--|
-| ![image](https://github.com/user-attachments/assets/70aa7b9e-f30f-434c-ac09-a6147721af80)|![image](https://github.com/user-attachments/assets/61db7896-129a-46ab-960f-806643a06468)|
+|![image](https://github.com/user-attachments/assets/70aa7b9e-f30f-434c-ac09-a6147721af80)|![image](https://github.com/user-attachments/assets/61db7896-129a-46ab-960f-806643a06468)|
+
+|로그인 페이지|즐겨찾기 페이지|
+|--|--|
+|![image](https://github.com/user-attachments/assets/d5d5de5c-8514-45fd-ab5b-195a37148c67)|![image](https://github.com/user-attachments/assets/4d096e19-3b88-4e0d-b7f8-e82a386f7394)|
+
+|입양안내 페이지|입양교육 페이지|
+|--|--|
+![image](https://github.com/user-attachments/assets/05ee6140-5996-471b-b511-15869dc6a224)|![image](https://github.com/user-attachments/assets/f9e7020e-3961-4381-9c8f-976044f8d3b8)|
+
+|동물조회 페이지|동물상세 페이지|
+|--|--|
+|![image](https://github.com/user-attachments/assets/05199cf0-9b24-496b-ac1c-dc2c822aee0d)|![image](https://github.com/user-attachments/assets/65b6a400-fad8-4b33-882f-601b94887978)|
+
+|보호소조회 페이지|보호소상세 페이지|
+|--|--|
+|![image](https://github.com/user-attachments/assets/88383653-35e9-4cae-adc3-109949807543)|![image](https://github.com/user-attachments/assets/4d3b7edc-242e-4b40-8f4f-246d6b23842e)|
 
 
 ## 🔥 주요 기능
